@@ -18,6 +18,8 @@
   "homepage": "https://github.com/vj21soni/ng-superHero#readme",
   "dependencies": {
     "angular": "^1.6.5",
-    "angular-ui-router": "^1.0.3"
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "toastr": "^2.1.2"
   }
 }
