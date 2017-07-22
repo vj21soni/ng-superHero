@@ -1,0 +1,19 @@
+{
+  "name": "ng-superhero",
+  "version": "1.0.0",
+  "description": "angular 1 Project for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vj21soni/ng-superHero.git"
+  },
+  "author": "Vj Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vj21soni/ng-superHero/issues"
+  },
+  "homepage": "https://github.com/vj21soni/ng-superHero#readme"
+}
