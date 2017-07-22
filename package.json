@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vj21soni/ng-superHero/issues"
   },
-  "homepage": "https://github.com/vj21soni/ng-superHero#readme"
+  "homepage": "https://github.com/vj21soni/ng-superHero#readme",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "^1.0.3"
+  }
 }
